@@ -1,0 +1,1626 @@
+[
+   {
+      "_Id": "1",
+      "_UlkeAdi": "Afganistan",
+      "_Oncelik": "0",
+      "_tr_TR": "Afganistan",
+      "_en_US": "Afghanistan"
+   },
+   {
+      "_Id": "2",
+      "_UlkeAdi": "Arnavutluk",
+      "_Oncelik": "0",
+      "_tr_TR": "Arnavutluk",
+      "_en_US": "Albania"
+   },
+   {
+      "_Id": "3",
+      "_UlkeAdi": "Cezayir",
+      "_Oncelik": "0",
+      "_tr_TR": "Cezayir",
+      "_en_US": "Algeria"
+   },
+   {
+      "_Id": "4",
+      "_UlkeAdi": "Amerikan Samoasi",
+      "_Oncelik": "0",
+      "_tr_TR": "Amerikan Samoasi",
+      "_en_US": "American Samoa"
+   },
+   {
+      "_Id": "5",
+      "_UlkeAdi": "Andorra",
+      "_Oncelik": "0",
+      "_tr_TR": "Andorra",
+      "_en_US": "Andorra"
+   },
+   {
+      "_Id": "6",
+      "_UlkeAdi": "Angora",
+      "_Oncelik": "0",
+      "_tr_TR": "Angora",
+      "_en_US": "Angola"
+   },
+   {
+      "_Id": "7",
+      "_UlkeAdi": "Anguilla",
+      "_Oncelik": "0",
+      "_tr_TR": "Anguilla",
+      "_en_US": "Anguilla"
+   },
+   {
+      "_Id": "8",
+      "_UlkeAdi": "Antarktika",
+      "_Oncelik": "0",
+      "_tr_TR": "Antarktika",
+      "_en_US": "Antarctica"
+   },
+   {
+      "_Id": "9",
+      "_UlkeAdi": "Antigua ve Barbuda",
+      "_Oncelik": "0",
+      "_tr_TR": "Antigua ve Barbuda",
+      "_en_US": "Antigua & Barbuda"
+   },
+   {
+      "_Id": "10",
+      "_UlkeAdi": "Arjantin",
+      "_Oncelik": "0",
+      "_tr_TR": "Arjantin",
+      "_en_US": "Argentina"
+   },
+   {
+      "_Id": "11",
+      "_UlkeAdi": "Ermenistan",
+      "_Oncelik": "0",
+      "_tr_TR": "Ermenistan",
+      "_en_US": "Armenia"
+   },
+   {
+      "_Id": "12",
+      "_UlkeAdi": "Aruba",
+      "_Oncelik": "0",
+      "_tr_TR": "Aruba",
+      "_en_US": "Aruba"
+   },
+   {
+      "_Id": "13",
+      "_UlkeAdi": "Avustralya",
+      "_Oncelik": "0",
+      "_tr_TR": "Avustralya",
+      "_en_US": "Australia"
+   },
+   {
+      "_Id": "14",
+      "_UlkeAdi": "Avusturya",
+      "_Oncelik": "0",
+      "_tr_TR": "Avusturya",
+      "_en_US": "Austria"
+   },
+   {
+      "_Id": "15",
+      "_UlkeAdi": "Azerbaycan",
+      "_Oncelik": "0",
+      "_tr_TR": "Azerbaycan",
+      "_en_US": "Azerbaijan"
+   },
+   {
+      "_Id": "16",
+      "_UlkeAdi": "Bahamalar",
+      "_Oncelik": "0",
+      "_tr_TR": "Bahamalar",
+      "_en_US": "Bahamas"
+   },
+   {
+      "_Id": "17",
+      "_UlkeAdi": "Bahreyn",
+      "_Oncelik": "0",
+      "_tr_TR": "Bahreyn",
+      "_en_US": "Bahrain"
+   },
+   {
+      "_Id": "18",
+      "_UlkeAdi": "Banglades",
+      "_Oncelik": "0",
+      "_tr_TR": "Banglades",
+      "_en_US": "Bangladesh"
+   },
+   {
+      "_Id": "19",
+      "_UlkeAdi": "Barbados",
+      "_Oncelik": "0",
+      "_tr_TR": "Barbados",
+      "_en_US": "Barbados"
+   },
+   {
+      "_Id": "20",
+      "_UlkeAdi": "Belarus",
+      "_Oncelik": "0",
+      "_tr_TR": "Belarus",
+      "_en_US": "Belarus"
+   },
+   {
+      "_Id": "21",
+      "_UlkeAdi": "Belçika",
+      "_Oncelik": "0",
+      "_tr_TR": "Belçika",
+      "_en_US": "Belgium"
+   },
+   {
+      "_Id": "22",
+      "_UlkeAdi": "Belize",
+      "_Oncelik": "0",
+      "_tr_TR": "Belize",
+      "_en_US": "Belize"
+   },
+   {
+      "_Id": "23",
+      "_UlkeAdi": "Benin",
+      "_Oncelik": "0",
+      "_tr_TR": "Benin",
+      "_en_US": "Benin"
+   },
+   {
+      "_Id": "24",
+      "_UlkeAdi": "Bermuda",
+      "_Oncelik": "0",
+      "_tr_TR": "Bermuda",
+      "_en_US": "Bermuda"
+   },
+   {
+      "_Id": "25",
+      "_UlkeAdi": "Bhutan",
+      "_Oncelik": "0",
+      "_tr_TR": "Bhutan",
+      "_en_US": "Bhutan"
+   },
+   {
+      "_Id": "26",
+      "_UlkeAdi": "Bolivya",
+      "_Oncelik": "0",
+      "_tr_TR": "Bolivya",
+      "_en_US": "Bolivia"
+   },
+   {
+      "_Id": "27",
+      "_UlkeAdi": "Bosna-Hersek",
+      "_Oncelik": "0",
+      "_tr_TR": "Bosna-Hersek",
+      "_en_US": "Bosnia-Herzegovina"
+   },
+   {
+      "_Id": "28",
+      "_UlkeAdi": "Botsvana",
+      "_Oncelik": "0",
+      "_tr_TR": "Botsvana",
+      "_en_US": "Botswana"
+   },
+   {
+      "_Id": "29",
+      "_UlkeAdi": "Brezilya",
+      "_Oncelik": "0",
+      "_tr_TR": "Brezilya",
+      "_en_US": "Brazil"
+   },
+   {
+      "_Id": "30",
+      "_UlkeAdi": "Ingiliz Virgin Adalari",
+      "_Oncelik": "0",
+      "_tr_TR": "Ingiliz Virgin Adalari",
+      "_en_US": "British Virgin Islands"
+   },
+   {
+      "_Id": "31",
+      "_UlkeAdi": "Brunei",
+      "_Oncelik": "0",
+      "_tr_TR": "Brunei",
+      "_en_US": "Brunei"
+   },
+   {
+      "_Id": "32",
+      "_UlkeAdi": "Bulgaristan",
+      "_Oncelik": "0",
+      "_tr_TR": "Bulgaristan",
+      "_en_US": "Bulgaria"
+   },
+   {
+      "_Id": "33",
+      "_UlkeAdi": "Burkina Faso",
+      "_Oncelik": "0",
+      "_tr_TR": "Burkina Faso",
+      "_en_US": "Burkina Faso"
+   },
+   {
+      "_Id": "34",
+      "_UlkeAdi": "Burundi",
+      "_Oncelik": "0",
+      "_tr_TR": "Burundi",
+      "_en_US": "Burundi"
+   },
+   {
+      "_Id": "35",
+      "_UlkeAdi": "Kamboçya",
+      "_Oncelik": "0",
+      "_tr_TR": "Kamboçya",
+      "_en_US": "Cambodia"
+   },
+   {
+      "_Id": "36",
+      "_UlkeAdi": "Kamerun",
+      "_Oncelik": "0",
+      "_tr_TR": "Kamerun",
+      "_en_US": "Cameroon"
+   },
+   {
+      "_Id": "37",
+      "_UlkeAdi": "Kanada",
+      "_Oncelik": "0",
+      "_tr_TR": "Kanada",
+      "_en_US": "Canada"
+   },
+   {
+      "_Id": "38",
+      "_UlkeAdi": "Cape Verde",
+      "_Oncelik": "0",
+      "_tr_TR": "Cape Verde",
+      "_en_US": "Cape Verde"
+   },
+   {
+      "_Id": "39",
+      "_UlkeAdi": "Cayman Adalari",
+      "_Oncelik": "0",
+      "_tr_TR": "Cayman Adalari",
+      "_en_US": "Cayman Islands"
+   },
+   {
+      "_Id": "40",
+      "_UlkeAdi": "Orta Afrika",
+      "_Oncelik": "0",
+      "_tr_TR": "Orta Afrika",
+      "_en_US": "Central Africa"
+   },
+   {
+      "_Id": "41",
+      "_UlkeAdi": "Chad",
+      "_Oncelik": "0",
+      "_tr_TR": "Chad",
+      "_en_US": "Chad"
+   },
+   {
+      "_Id": "42",
+      "_UlkeAdi": "Sili",
+      "_Oncelik": "0",
+      "_tr_TR": "Sili",
+      "_en_US": "Chile"
+   },
+   {
+      "_Id": "43",
+      "_UlkeAdi": "Çin",
+      "_Oncelik": "0",
+      "_tr_TR": "Çin",
+      "_en_US": "China"
+   },
+   {
+      "_Id": "44",
+      "_UlkeAdi": "Kolombiya",
+      "_Oncelik": "0",
+      "_tr_TR": "Kolombiya",
+      "_en_US": "Colombia"
+   },
+   {
+      "_Id": "45",
+      "_UlkeAdi": "Komorlar",
+      "_Oncelik": "0",
+      "_tr_TR": "Komorlar",
+      "_en_US": "Comoros"
+   },
+   {
+      "_Id": "46",
+      "_UlkeAdi": "Kongo",
+      "_Oncelik": "0",
+      "_tr_TR": "Kongo",
+      "_en_US": "Congo"
+   },
+   {
+      "_Id": "47",
+      "_UlkeAdi": "Kongo (Dem. Cumhuriyeti)",
+      "_Oncelik": "0",
+      "_tr_TR": "Kongo (Dem. Cumhuriyeti)",
+      "_en_US": "Congo (Dem. Rep.)"
+   },
+   {
+      "_Id": "48",
+      "_UlkeAdi": "Cook Adalari",
+      "_Oncelik": "0",
+      "_tr_TR": "Cook Adalari",
+      "_en_US": "Cook Islands"
+   },
+   {
+      "_Id": "49",
+      "_UlkeAdi": "Kostarika",
+      "_Oncelik": "0",
+      "_tr_TR": "Kostarika",
+      "_en_US": "Costa Rica"
+   },
+   {
+      "_Id": "50",
+      "_UlkeAdi": "Hirvatistan",
+      "_Oncelik": "0",
+      "_tr_TR": "Hirvatistan",
+      "_en_US": "Croatia"
+   },
+   {
+      "_Id": "51",
+      "_UlkeAdi": "Küba",
+      "_Oncelik": "0",
+      "_tr_TR": "Küba",
+      "_en_US": "Cuba"
+   },
+   {
+      "_Id": "52",
+      "_UlkeAdi": "Kibris",
+      "_Oncelik": "0",
+      "_tr_TR": "Kibris",
+      "_en_US": "Cyprus"
+   },
+   {
+      "_Id": "53",
+      "_UlkeAdi": "Çek Cumhuriyeti",
+      "_Oncelik": "0",
+      "_tr_TR": "Çek Cumhuriyeti",
+      "_en_US": "Czech Republic"
+   },
+   {
+      "_Id": "54",
+      "_UlkeAdi": "Danimarka",
+      "_Oncelik": "0",
+      "_tr_TR": "Danimarka",
+      "_en_US": "Denmark"
+   },
+   {
+      "_Id": "55",
+      "_UlkeAdi": "Cibuti",
+      "_Oncelik": "0",
+      "_tr_TR": "Cibuti",
+      "_en_US": "Djibouti"
+   },
+   {
+      "_Id": "56",
+      "_UlkeAdi": "Dominika",
+      "_Oncelik": "0",
+      "_tr_TR": "Dominika",
+      "_en_US": "Dominica"
+   },
+   {
+      "_Id": "57",
+      "_UlkeAdi": "Dominik Cumhuriyeti",
+      "_Oncelik": "0",
+      "_tr_TR": "Dominik Cumhuriyeti",
+      "_en_US": "Dominican Republic"
+   },
+   {
+      "_Id": "58",
+      "_UlkeAdi": "Dogu Timor",
+      "_Oncelik": "0",
+      "_tr_TR": "Dogu Timor",
+      "_en_US": "East Timor"
+   },
+   {
+      "_Id": "59",
+      "_UlkeAdi": "Ekvador",
+      "_Oncelik": "0",
+      "_tr_TR": "Ekvador",
+      "_en_US": "Ecuador"
+   },
+   {
+      "_Id": "60",
+      "_UlkeAdi": "Misir",
+      "_Oncelik": "0",
+      "_tr_TR": "Misir",
+      "_en_US": "Egypt"
+   },
+   {
+      "_Id": "61",
+      "_UlkeAdi": "El Salvador",
+      "_Oncelik": "0",
+      "_tr_TR": "El Salvador",
+      "_en_US": "El Salvador"
+   },
+   {
+      "_Id": "62",
+      "_UlkeAdi": "Ekvator Ginesi",
+      "_Oncelik": "0",
+      "_tr_TR": "Ekvator Ginesi",
+      "_en_US": "Equatorial Guinea"
+   },
+   {
+      "_Id": "63",
+      "_UlkeAdi": "Eritre",
+      "_Oncelik": "0",
+      "_tr_TR": "Eritre",
+      "_en_US": "Eritrea"
+   },
+   {
+      "_Id": "64",
+      "_UlkeAdi": "Estonya",
+      "_Oncelik": "0",
+      "_tr_TR": "Estonya",
+      "_en_US": "Estonia"
+   },
+   {
+      "_Id": "65",
+      "_UlkeAdi": "Etiyopya",
+      "_Oncelik": "0",
+      "_tr_TR": "Etiyopya",
+      "_en_US": "Ethiopia"
+   },
+   {
+      "_Id": "66",
+      "_UlkeAdi": "Ext. Territ. Avustralya",
+      "_Oncelik": "0",
+      "_tr_TR": "Ext. Territ. Avustralya",
+      "_en_US": "Ext. Territ. of Australia"
+   },
+   {
+      "_Id": "67",
+      "_UlkeAdi": "Falkland Adalari",
+      "_Oncelik": "0",
+      "_tr_TR": "Falkland Adalari",
+      "_en_US": "Falkland Islands"
+   },
+   {
+      "_Id": "68",
+      "_UlkeAdi": "Faroe Adalari",
+      "_Oncelik": "0",
+      "_tr_TR": "Faroe Adalari",
+      "_en_US": "Faroe Islands"
+   },
+   {
+      "_Id": "69",
+      "_UlkeAdi": "Fiji",
+      "_Oncelik": "0",
+      "_tr_TR": "Fiji",
+      "_en_US": "Fiji"
+   },
+   {
+      "_Id": "70",
+      "_UlkeAdi": "Finlandiya",
+      "_Oncelik": "0",
+      "_tr_TR": "Finlandiya",
+      "_en_US": "Finland"
+   },
+   {
+      "_Id": "71",
+      "_UlkeAdi": "Fransa",
+      "_Oncelik": "0",
+      "_tr_TR": "Fransa",
+      "_en_US": "France"
+   },
+   {
+      "_Id": "72",
+      "_UlkeAdi": "Fransiz Guyanasi",
+      "_Oncelik": "0",
+      "_tr_TR": "Fransiz Guyanasi",
+      "_en_US": "French Guiana"
+   },
+   {
+      "_Id": "73",
+      "_UlkeAdi": "Fransiz Polinezyasi",
+      "_Oncelik": "0",
+      "_tr_TR": "Fransiz Polinezyasi",
+      "_en_US": "French Polynesia"
+   },
+   {
+      "_Id": "74",
+      "_UlkeAdi": "Gabon",
+      "_Oncelik": "0",
+      "_tr_TR": "Gabon",
+      "_en_US": "Gabon"
+   },
+   {
+      "_Id": "75",
+      "_UlkeAdi": "Gambiya",
+      "_Oncelik": "0",
+      "_tr_TR": "Gambiya",
+      "_en_US": "Gambia"
+   },
+   {
+      "_Id": "76",
+      "_UlkeAdi": "Georgia",
+      "_Oncelik": "0",
+      "_tr_TR": "Georgia",
+      "_en_US": "Georgia"
+   },
+   {
+      "_Id": "77",
+      "_UlkeAdi": "Almanya",
+      "_Oncelik": "0",
+      "_tr_TR": "Almanya",
+      "_en_US": "Germany"
+   },
+   {
+      "_Id": "78",
+      "_UlkeAdi": "Gana",
+      "_Oncelik": "0",
+      "_tr_TR": "Gana",
+      "_en_US": "Ghana"
+   },
+   {
+      "_Id": "79",
+      "_UlkeAdi": "Cebelitarik",
+      "_Oncelik": "0",
+      "_tr_TR": "Cebelitarik",
+      "_en_US": "Gibraltar"
+   },
+   {
+      "_Id": "80",
+      "_UlkeAdi": "Yunanistan",
+      "_Oncelik": "0",
+      "_tr_TR": "Yunanistan",
+      "_en_US": "Greece"
+   },
+   {
+      "_Id": "81",
+      "_UlkeAdi": "Grönland",
+      "_Oncelik": "0",
+      "_tr_TR": "Grönland",
+      "_en_US": "Greenland"
+   },
+   {
+      "_Id": "82",
+      "_UlkeAdi": "Grenada",
+      "_Oncelik": "0",
+      "_tr_TR": "Grenada",
+      "_en_US": "Grenada"
+   },
+   {
+      "_Id": "83",
+      "_UlkeAdi": "Guadeloupe",
+      "_Oncelik": "0",
+      "_tr_TR": "Guadeloupe",
+      "_en_US": "Guadeloupe"
+   },
+   {
+      "_Id": "84",
+      "_UlkeAdi": "Guam",
+      "_Oncelik": "0",
+      "_tr_TR": "Guam",
+      "_en_US": "Guam"
+   },
+   {
+      "_Id": "85",
+      "_UlkeAdi": "Guatemala",
+      "_Oncelik": "0",
+      "_tr_TR": "Guatemala",
+      "_en_US": "Guatemala"
+   },
+   {
+      "_Id": "86",
+      "_UlkeAdi": "Guernsey ve Alderney",
+      "_Oncelik": "0",
+      "_tr_TR": "Guernsey ve Alderney",
+      "_en_US": "Guernsey and Alderney"
+   },
+   {
+      "_Id": "87",
+      "_UlkeAdi": "Gine",
+      "_Oncelik": "0",
+      "_tr_TR": "Gine",
+      "_en_US": "Guinea"
+   },
+   {
+      "_Id": "88",
+      "_UlkeAdi": "Gine Bissau",
+      "_Oncelik": "0",
+      "_tr_TR": "Gine Bissau",
+      "_en_US": "Guinea Bissau"
+   },
+   {
+      "_Id": "89",
+      "_UlkeAdi": "Guyana",
+      "_Oncelik": "0",
+      "_tr_TR": "Guyana",
+      "_en_US": "Guyana"
+   },
+   {
+      "_Id": "90",
+      "_UlkeAdi": "Haiti",
+      "_Oncelik": "0",
+      "_tr_TR": "Haiti",
+      "_en_US": "Haiti"
+   },
+   {
+      "_Id": "91",
+      "_UlkeAdi": "Honduras",
+      "_Oncelik": "0",
+      "_tr_TR": "Honduras",
+      "_en_US": "Honduras"
+   },
+   {
+      "_Id": "92",
+      "_UlkeAdi": "Macaristan",
+      "_Oncelik": "0",
+      "_tr_TR": "Macaristan",
+      "_en_US": "Hungary"
+   },
+   {
+      "_Id": "93",
+      "_UlkeAdi": "Izlanda",
+      "_Oncelik": "0",
+      "_tr_TR": "Izlanda",
+      "_en_US": "Iceland"
+   },
+   {
+      "_Id": "94",
+      "_UlkeAdi": "Hindistan",
+      "_Oncelik": "0",
+      "_tr_TR": "Hindistan",
+      "_en_US": "India"
+   },
+   {
+      "_Id": "95",
+      "_UlkeAdi": "Endonezya",
+      "_Oncelik": "0",
+      "_tr_TR": "Endonezya",
+      "_en_US": "Indonesia"
+   },
+   {
+      "_Id": "96",
+      "_UlkeAdi": "Iran",
+      "_Oncelik": "0",
+      "_tr_TR": "Iran",
+      "_en_US": "Iran"
+   },
+   {
+      "_Id": "97",
+      "_UlkeAdi": "Irak",
+      "_Oncelik": "0",
+      "_tr_TR": "Irak",
+      "_en_US": "Iraq"
+   },
+   {
+      "_Id": "98",
+      "_UlkeAdi": "Irlanda",
+      "_Oncelik": "0",
+      "_tr_TR": "Irlanda",
+      "_en_US": "Ireland"
+   },
+   {
+      "_Id": "99",
+      "_UlkeAdi": "Israil",
+      "_Oncelik": "0",
+      "_tr_TR": "Israil",
+      "_en_US": "Israel"
+   },
+   {
+      "_Id": "100",
+      "_UlkeAdi": "Italya",
+      "_Oncelik": "0",
+      "_tr_TR": "Italya",
+      "_en_US": "Italy"
+   },
+   {
+      "_Id": "101",
+      "_UlkeAdi": "Fildisi Sahili",
+      "_Oncelik": "0",
+      "_tr_TR": "Fildisi Sahili",
+      "_en_US": "Ivory Coast"
+   },
+   {
+      "_Id": "102",
+      "_UlkeAdi": "Jamaika",
+      "_Oncelik": "0",
+      "_tr_TR": "Jamaika",
+      "_en_US": "Jamaica"
+   },
+   {
+      "_Id": "103",
+      "_UlkeAdi": "Japonya",
+      "_Oncelik": "0",
+      "_tr_TR": "Japonya",
+      "_en_US": "Japan"
+   },
+   {
+      "_Id": "104",
+      "_UlkeAdi": "Jarse",
+      "_Oncelik": "0",
+      "_tr_TR": "Jarse",
+      "_en_US": "Jersey"
+   },
+   {
+      "_Id": "105",
+      "_UlkeAdi": "Ürdün",
+      "_Oncelik": "0",
+      "_tr_TR": "Ürdün",
+      "_en_US": "Jordan"
+   },
+   {
+      "_Id": "106",
+      "_UlkeAdi": "Kazakistan",
+      "_Oncelik": "0",
+      "_tr_TR": "Kazakistan",
+      "_en_US": "Kazakhstan"
+   },
+   {
+      "_Id": "107",
+      "_UlkeAdi": "Kenya",
+      "_Oncelik": "0",
+      "_tr_TR": "Kenya",
+      "_en_US": "Kenya"
+   },
+   {
+      "_Id": "108",
+      "_UlkeAdi": "Kiribati",
+      "_Oncelik": "0",
+      "_tr_TR": "Kiribati",
+      "_en_US": "Kiribati"
+   },
+   {
+      "_Id": "109",
+      "_UlkeAdi": "Kore (Kuzey)",
+      "_Oncelik": "0",
+      "_tr_TR": "Kore (Kuzey)",
+      "_en_US": "Korea (North)"
+   },
+   {
+      "_Id": "110",
+      "_UlkeAdi": "Kore (Güney)",
+      "_Oncelik": "0",
+      "_tr_TR": "Kore (Güney)",
+      "_en_US": "Korea (South)"
+   },
+   {
+      "_Id": "111",
+      "_UlkeAdi": "Kuveyt",
+      "_Oncelik": "0",
+      "_tr_TR": "Kuveyt",
+      "_en_US": "Kuwait"
+   },
+   {
+      "_Id": "112",
+      "_UlkeAdi": "Kirgizistan",
+      "_Oncelik": "0",
+      "_tr_TR": "Kirgizistan",
+      "_en_US": "Kyrgyzstan"
+   },
+   {
+      "_Id": "113",
+      "_UlkeAdi": "Laos",
+      "_Oncelik": "0",
+      "_tr_TR": "Laos",
+      "_en_US": "Laos"
+   },
+   {
+      "_Id": "114",
+      "_UlkeAdi": "Letonya",
+      "_Oncelik": "0",
+      "_tr_TR": "Letonya",
+      "_en_US": "Latvia"
+   },
+   {
+      "_Id": "115",
+      "_UlkeAdi": "Lübnan",
+      "_Oncelik": "0",
+      "_tr_TR": "Lübnan",
+      "_en_US": "Lebanon"
+   },
+   {
+      "_Id": "116",
+      "_UlkeAdi": "Lesotho",
+      "_Oncelik": "0",
+      "_tr_TR": "Lesotho",
+      "_en_US": "Lesotho"
+   },
+   {
+      "_Id": "117",
+      "_UlkeAdi": "Liberya",
+      "_Oncelik": "0",
+      "_tr_TR": "Liberya",
+      "_en_US": "Liberia"
+   },
+   {
+      "_Id": "118",
+      "_UlkeAdi": "Libya",
+      "_Oncelik": "0",
+      "_tr_TR": "Libya",
+      "_en_US": "Libya"
+   },
+   {
+      "_Id": "119",
+      "_UlkeAdi": "Liechtenstein",
+      "_Oncelik": "0",
+      "_tr_TR": "Liechtenstein",
+      "_en_US": "Liechtenstein"
+   },
+   {
+      "_Id": "120",
+      "_UlkeAdi": "Litvanya",
+      "_Oncelik": "0",
+      "_tr_TR": "Litvanya",
+      "_en_US": "Lithuania"
+   },
+   {
+      "_Id": "121",
+      "_UlkeAdi": "Lüksemburg",
+      "_Oncelik": "0",
+      "_tr_TR": "Lüksemburg",
+      "_en_US": "Luxembourg"
+   },
+   {
+      "_Id": "122",
+      "_UlkeAdi": "Makedonya",
+      "_Oncelik": "0",
+      "_tr_TR": "Makedonya",
+      "_en_US": "Macedonia"
+   },
+   {
+      "_Id": "123",
+      "_UlkeAdi": "Madagaskar",
+      "_Oncelik": "0",
+      "_tr_TR": "Madagaskar",
+      "_en_US": "Madagascar"
+   },
+   {
+      "_Id": "124",
+      "_UlkeAdi": "Malawi",
+      "_Oncelik": "0",
+      "_tr_TR": "Malawi",
+      "_en_US": "Malawi"
+   },
+   {
+      "_Id": "125",
+      "_UlkeAdi": "Malezya",
+      "_Oncelik": "0",
+      "_tr_TR": "Malezya",
+      "_en_US": "Malaysia"
+   },
+   {
+      "_Id": "126",
+      "_UlkeAdi": "Maldivler",
+      "_Oncelik": "0",
+      "_tr_TR": "Maldivler",
+      "_en_US": "Maldives"
+   },
+   {
+      "_Id": "127",
+      "_UlkeAdi": "Mali",
+      "_Oncelik": "0",
+      "_tr_TR": "Mali",
+      "_en_US": "Mali"
+   },
+   {
+      "_Id": "128",
+      "_UlkeAdi": "Malta",
+      "_Oncelik": "0",
+      "_tr_TR": "Malta",
+      "_en_US": "Malta"
+   },
+   {
+      "_Id": "129",
+      "_UlkeAdi": "Man Adasi",
+      "_Oncelik": "0",
+      "_tr_TR": "Man Adasi",
+      "_en_US": "Man (Isle of)"
+   },
+   {
+      "_Id": "130",
+      "_UlkeAdi": "Marshall Adalari",
+      "_Oncelik": "0",
+      "_tr_TR": "Marshall Adalari",
+      "_en_US": "Marshall Islands"
+   },
+   {
+      "_Id": "131",
+      "_UlkeAdi": "Martinik",
+      "_Oncelik": "0",
+      "_tr_TR": "Martinik",
+      "_en_US": "Martinique"
+   },
+   {
+      "_Id": "132",
+      "_UlkeAdi": "Moritanya",
+      "_Oncelik": "0",
+      "_tr_TR": "Moritanya",
+      "_en_US": "Mauritania"
+   },
+   {
+      "_Id": "133",
+      "_UlkeAdi": "Mauritius",
+      "_Oncelik": "0",
+      "_tr_TR": "Mauritius",
+      "_en_US": "Mauritius"
+   },
+   {
+      "_Id": "134",
+      "_UlkeAdi": "Mayotte",
+      "_Oncelik": "0",
+      "_tr_TR": "Mayotte",
+      "_en_US": "Mayotte"
+   },
+   {
+      "_Id": "135",
+      "_UlkeAdi": "Meksika",
+      "_Oncelik": "0",
+      "_tr_TR": "Meksika",
+      "_en_US": "Mexico"
+   },
+   {
+      "_Id": "136",
+      "_UlkeAdi": "Mikronezya",
+      "_Oncelik": "0",
+      "_tr_TR": "Mikronezya",
+      "_en_US": "Micronesia"
+   },
+   {
+      "_Id": "137",
+      "_UlkeAdi": "Moldova",
+      "_Oncelik": "0",
+      "_tr_TR": "Moldova",
+      "_en_US": "Moldova"
+   },
+   {
+      "_Id": "138",
+      "_UlkeAdi": "Monako",
+      "_Oncelik": "0",
+      "_tr_TR": "Monako",
+      "_en_US": "Monaco"
+   },
+   {
+      "_Id": "139",
+      "_UlkeAdi": "Mogolistan",
+      "_Oncelik": "0",
+      "_tr_TR": "Mogolistan",
+      "_en_US": "Mongolia"
+   },
+   {
+      "_Id": "140",
+      "_UlkeAdi": "Fas",
+      "_Oncelik": "0",
+      "_tr_TR": "Fas",
+      "_en_US": "Morocco"
+   },
+   {
+      "_Id": "141",
+      "_UlkeAdi": "Mozambik",
+      "_Oncelik": "0",
+      "_tr_TR": "Mozambik",
+      "_en_US": "Mozambique"
+   },
+   {
+      "_Id": "142",
+      "_UlkeAdi": "Myanmar",
+      "_Oncelik": "0",
+      "_tr_TR": "Myanmar",
+      "_en_US": "Myanmar"
+   },
+   {
+      "_Id": "143",
+      "_UlkeAdi": "Namibya",
+      "_Oncelik": "0",
+      "_tr_TR": "Namibya",
+      "_en_US": "Namibia"
+   },
+   {
+      "_Id": "144",
+      "_UlkeAdi": "Nauru",
+      "_Oncelik": "0",
+      "_tr_TR": "Nauru",
+      "_en_US": "Nauru"
+   },
+   {
+      "_Id": "145",
+      "_UlkeAdi": "Nepal",
+      "_Oncelik": "0",
+      "_tr_TR": "Nepal",
+      "_en_US": "Nepal"
+   },
+   {
+      "_Id": "146",
+      "_UlkeAdi": "Hollanda",
+      "_Oncelik": "0",
+      "_tr_TR": "Hollanda",
+      "_en_US": "Netherlands"
+   },
+   {
+      "_Id": "147",
+      "_UlkeAdi": "Hollanda Antilleri",
+      "_Oncelik": "0",
+      "_tr_TR": "Hollanda Antilleri",
+      "_en_US": "Netherlands Antilles"
+   },
+   {
+      "_Id": "148",
+      "_UlkeAdi": "Yeni Kaledonya",
+      "_Oncelik": "0",
+      "_tr_TR": "Yeni Kaledonya",
+      "_en_US": "New Caledonia"
+   },
+   {
+      "_Id": "149",
+      "_UlkeAdi": "Yeni Zelanda",
+      "_Oncelik": "0",
+      "_tr_TR": "Yeni Zelanda",
+      "_en_US": "New Zealand"
+   },
+   {
+      "_Id": "150",
+      "_UlkeAdi": "Nikaragua",
+      "_Oncelik": "0",
+      "_tr_TR": "Nikaragua",
+      "_en_US": "Nicaragua"
+   },
+   {
+      "_Id": "151",
+      "_UlkeAdi": "Nijer",
+      "_Oncelik": "0",
+      "_tr_TR": "Nijer",
+      "_en_US": "Niger"
+   },
+   {
+      "_Id": "152",
+      "_UlkeAdi": "Nijerya",
+      "_Oncelik": "0",
+      "_tr_TR": "Nijerya",
+      "_en_US": "Nigeria"
+   },
+   {
+      "_Id": "153",
+      "_UlkeAdi": "Niue",
+      "_Oncelik": "0",
+      "_tr_TR": "Niue",
+      "_en_US": "Niue"
+   },
+   {
+      "_Id": "154",
+      "_UlkeAdi": "Norfolk",
+      "_Oncelik": "0",
+      "_tr_TR": "Norfolk",
+      "_en_US": "Norfolk"
+   },
+   {
+      "_Id": "155",
+      "_UlkeAdi": "Kuzey Mariana Adalari",
+      "_Oncelik": "0",
+      "_tr_TR": "Kuzey Mariana Adalari",
+      "_en_US": "Northern Mariana Islands"
+   },
+   {
+      "_Id": "156",
+      "_UlkeAdi": "Umman",
+      "_Oncelik": "0",
+      "_tr_TR": "Umman",
+      "_en_US": "Oman"
+   },
+   {
+      "_Id": "157",
+      "_UlkeAdi": "Pakistan",
+      "_Oncelik": "0",
+      "_tr_TR": "Pakistan",
+      "_en_US": "Pakistan"
+   },
+   {
+      "_Id": "158",
+      "_UlkeAdi": "Palau",
+      "_Oncelik": "0",
+      "_tr_TR": "Palau",
+      "_en_US": "Palau"
+   },
+   {
+      "_Id": "159",
+      "_UlkeAdi": "Filistin",
+      "_Oncelik": "0",
+      "_tr_TR": "Filistin",
+      "_en_US": "Palestine"
+   },
+   {
+      "_Id": "160",
+      "_UlkeAdi": "Panama",
+      "_Oncelik": "0",
+      "_tr_TR": "Panama",
+      "_en_US": "Panama"
+   },
+   {
+      "_Id": "161",
+      "_UlkeAdi": "Papua Yeni Gine",
+      "_Oncelik": "0",
+      "_tr_TR": "Papua Yeni Gine",
+      "_en_US": "Papua New Guinea"
+   },
+   {
+      "_Id": "162",
+      "_UlkeAdi": "Paraguay",
+      "_Oncelik": "0",
+      "_tr_TR": "Paraguay",
+      "_en_US": "Paraguay"
+   },
+   {
+      "_Id": "163",
+      "_UlkeAdi": "Peru",
+      "_Oncelik": "0",
+      "_tr_TR": "Peru",
+      "_en_US": "Peru"
+   },
+   {
+      "_Id": "164",
+      "_UlkeAdi": "Filipinler",
+      "_Oncelik": "0",
+      "_tr_TR": "Filipinler",
+      "_en_US": "Philippines"
+   },
+   {
+      "_Id": "165",
+      "_UlkeAdi": "Polonya",
+      "_Oncelik": "0",
+      "_tr_TR": "Polonya",
+      "_en_US": "Poland"
+   },
+   {
+      "_Id": "166",
+      "_UlkeAdi": "Portekiz",
+      "_Oncelik": "0",
+      "_tr_TR": "Portekiz",
+      "_en_US": "Portugal"
+   },
+   {
+      "_Id": "167",
+      "_UlkeAdi": "Porto Riko",
+      "_Oncelik": "0",
+      "_tr_TR": "Porto Riko",
+      "_en_US": "Puerto Rico"
+   },
+   {
+      "_Id": "168",
+      "_UlkeAdi": "Qatar",
+      "_Oncelik": "0",
+      "_tr_TR": "Qatar",
+      "_en_US": "Qatar"
+   },
+   {
+      "_Id": "169",
+      "_UlkeAdi": "Réunion",
+      "_Oncelik": "0",
+      "_tr_TR": "Réunion",
+      "_en_US": "Réunion"
+   },
+   {
+      "_Id": "170",
+      "_UlkeAdi": "Romanya",
+      "_Oncelik": "0",
+      "_tr_TR": "Romanya",
+      "_en_US": "Romania"
+   },
+   {
+      "_Id": "171",
+      "_UlkeAdi": "Rusya",
+      "_Oncelik": "0",
+      "_tr_TR": "Rusya",
+      "_en_US": "Russia"
+   },
+   {
+      "_Id": "172",
+      "_UlkeAdi": "Ruanda",
+      "_Oncelik": "0",
+      "_tr_TR": "Ruanda",
+      "_en_US": "Rwanda"
+   },
+   {
+      "_Id": "173",
+      "_UlkeAdi": "Sahara",
+      "_Oncelik": "0",
+      "_tr_TR": "Sahara",
+      "_en_US": "Sahara"
+   },
+   {
+      "_Id": "174",
+      "_UlkeAdi": "Saint Helena",
+      "_Oncelik": "0",
+      "_tr_TR": "Saint Helena",
+      "_en_US": "Saint Helena"
+   },
+   {
+      "_Id": "175",
+      "_UlkeAdi": "Saint Kitts ve Nevis",
+      "_Oncelik": "0",
+      "_tr_TR": "Saint Kitts ve Nevis",
+      "_en_US": "Saint Kitts and Nevis"
+   },
+   {
+      "_Id": "176",
+      "_UlkeAdi": "Saint Lucia",
+      "_Oncelik": "0",
+      "_tr_TR": "Saint Lucia",
+      "_en_US": "Saint Lucia"
+   },
+   {
+      "_Id": "177",
+      "_UlkeAdi": "Saint Pierre ve Miquelon",
+      "_Oncelik": "0",
+      "_tr_TR": "Saint Pierre ve Miquelon",
+      "_en_US": "Saint Pierre & Miquelon"
+   },
+   {
+      "_Id": "178",
+      "_UlkeAdi": "St Vincent ve Grenadinler",
+      "_Oncelik": "0",
+      "_tr_TR": "St Vincent ve Grenadinler",
+      "_en_US": "St. Vincent & the Grenadines"
+   },
+   {
+      "_Id": "179",
+      "_UlkeAdi": "Samoa",
+      "_Oncelik": "0",
+      "_tr_TR": "Samoa",
+      "_en_US": "Samoa"
+   },
+   {
+      "_Id": "180",
+      "_UlkeAdi": "San Marino",
+      "_Oncelik": "0",
+      "_tr_TR": "San Marino",
+      "_en_US": "San Marino"
+   },
+   {
+      "_Id": "181",
+      "_UlkeAdi": "Sao Tome ve Principe",
+      "_Oncelik": "0",
+      "_tr_TR": "Sao Tome ve Principe",
+      "_en_US": "São Tomé and Príncipe"
+   },
+   {
+      "_Id": "182",
+      "_UlkeAdi": "Suudi Arabistan",
+      "_Oncelik": "0",
+      "_tr_TR": "Suudi Arabistan",
+      "_en_US": "Saudi Arabia"
+   },
+   {
+      "_Id": "183",
+      "_UlkeAdi": "Senegal",
+      "_Oncelik": "0",
+      "_tr_TR": "Senegal",
+      "_en_US": "Senegal"
+   },
+   {
+      "_Id": "184",
+      "_UlkeAdi": "Sirbistan ve Karadag",
+      "_Oncelik": "0",
+      "_tr_TR": "Sirbistan ve Karadag",
+      "_en_US": "Serbia and Montenegro"
+   },
+   {
+      "_Id": "185",
+      "_UlkeAdi": "Seysel Adalari",
+      "_Oncelik": "0",
+      "_tr_TR": "Seysel Adalari",
+      "_en_US": "Seychelles"
+   },
+   {
+      "_Id": "186",
+      "_UlkeAdi": "Sierra Leone",
+      "_Oncelik": "0",
+      "_tr_TR": "Sierra Leone",
+      "_en_US": "Sierra Leone"
+   },
+   {
+      "_Id": "187",
+      "_UlkeAdi": "Singapur",
+      "_Oncelik": "0",
+      "_tr_TR": "Singapur",
+      "_en_US": "Singapore"
+   },
+   {
+      "_Id": "188",
+      "_UlkeAdi": "Slovakya",
+      "_Oncelik": "0",
+      "_tr_TR": "Slovakya",
+      "_en_US": "Slovakia"
+   },
+   {
+      "_Id": "189",
+      "_UlkeAdi": "Slovenya",
+      "_Oncelik": "0",
+      "_tr_TR": "Slovenya",
+      "_en_US": "Slovenia"
+   },
+   {
+      "_Id": "190",
+      "_UlkeAdi": "Smaller Territories of the UK",
+      "_Oncelik": "0",
+      "_tr_TR": "Smaller Territories of the UK",
+      "_en_US": "Smaller Territories of the UK"
+   },
+   {
+      "_Id": "191",
+      "_UlkeAdi": "Solomon Adalari",
+      "_Oncelik": "0",
+      "_tr_TR": "Solomon Adalari",
+      "_en_US": "Solomon Islands"
+   },
+   {
+      "_Id": "192",
+      "_UlkeAdi": "Somali",
+      "_Oncelik": "0",
+      "_tr_TR": "Somali",
+      "_en_US": "Somalia"
+   },
+   {
+      "_Id": "193",
+      "_UlkeAdi": "Güney Afrika",
+      "_Oncelik": "0",
+      "_tr_TR": "Güney Afrika",
+      "_en_US": "South Africa"
+   },
+   {
+      "_Id": "194",
+      "_UlkeAdi": "Ispanya",
+      "_Oncelik": "0",
+      "_tr_TR": "Ispanya",
+      "_en_US": "Spain"
+   },
+   {
+      "_Id": "195",
+      "_UlkeAdi": "Sri Lanka",
+      "_Oncelik": "0",
+      "_tr_TR": "Sri Lanka",
+      "_en_US": "Sri Lanka"
+   },
+   {
+      "_Id": "196",
+      "_UlkeAdi": "Sudan",
+      "_Oncelik": "0",
+      "_tr_TR": "Sudan",
+      "_en_US": "Sudan"
+   },
+   {
+      "_Id": "197",
+      "_UlkeAdi": "Surinam",
+      "_Oncelik": "0",
+      "_tr_TR": "Surinam",
+      "_en_US": "Suriname"
+   },
+   {
+      "_Id": "198",
+      "_UlkeAdi": "Svalbard ve Jan Mayen",
+      "_Oncelik": "0",
+      "_tr_TR": "Svalbard ve Jan Mayen",
+      "_en_US": "Svalbard and Jan Mayen"
+   },
+   {
+      "_Id": "199",
+      "_UlkeAdi": "Svaziland",
+      "_Oncelik": "0",
+      "_tr_TR": "Svaziland",
+      "_en_US": "Swaziland"
+   },
+   {
+      "_Id": "200",
+      "_UlkeAdi": "Isveç",
+      "_Oncelik": "0",
+      "_tr_TR": "Isveç",
+      "_en_US": "Sweden"
+   },
+   {
+      "_Id": "201",
+      "_UlkeAdi": "Isviçre",
+      "_Oncelik": "0",
+      "_tr_TR": "Isviçre",
+      "_en_US": "Switzerland"
+   },
+   {
+      "_Id": "202",
+      "_UlkeAdi": "Suriye",
+      "_Oncelik": "0",
+      "_tr_TR": "Suriye",
+      "_en_US": "Syria"
+   },
+   {
+      "_Id": "203",
+      "_UlkeAdi": "Tayvan",
+      "_Oncelik": "0",
+      "_tr_TR": "Tayvan",
+      "_en_US": "Taiwan"
+   },
+   {
+      "_Id": "204",
+      "_UlkeAdi": "Tacikistan",
+      "_Oncelik": "0",
+      "_tr_TR": "Tacikistan",
+      "_en_US": "Tajikistan"
+   },
+   {
+      "_Id": "205",
+      "_UlkeAdi": "Tanzanya",
+      "_Oncelik": "0",
+      "_tr_TR": "Tanzanya",
+      "_en_US": "Tanzania"
+   },
+   {
+      "_Id": "206",
+      "_UlkeAdi": "Terres Australes",
+      "_Oncelik": "0",
+      "_tr_TR": "Terres Australes",
+      "_en_US": "Terres Australes"
+   },
+   {
+      "_Id": "207",
+      "_UlkeAdi": "Tayland",
+      "_Oncelik": "0",
+      "_tr_TR": "Tayland",
+      "_en_US": "Thailand"
+   },
+   {
+      "_Id": "208",
+      "_UlkeAdi": "Togo",
+      "_Oncelik": "0",
+      "_tr_TR": "Togo",
+      "_en_US": "Togo"
+   },
+   {
+      "_Id": "209",
+      "_UlkeAdi": "Tokelau",
+      "_Oncelik": "0",
+      "_tr_TR": "Tokelau",
+      "_en_US": "Tokelau"
+   },
+   {
+      "_Id": "210",
+      "_UlkeAdi": "Tonga",
+      "_Oncelik": "0",
+      "_tr_TR": "Tonga",
+      "_en_US": "Tonga"
+   },
+   {
+      "_Id": "211",
+      "_UlkeAdi": "Trinidad ve Tobago",
+      "_Oncelik": "0",
+      "_tr_TR": "Trinidad ve Tobago",
+      "_en_US": "Trinidad and Tobago"
+   },
+   {
+      "_Id": "212",
+      "_UlkeAdi": "Tunus",
+      "_Oncelik": "0",
+      "_tr_TR": "Tunus",
+      "_en_US": "Tunisia"
+   },
+   {
+      "_Id": "213",
+      "_UlkeAdi": "Türkiye",
+      "_Oncelik": "0",
+      "_tr_TR": "Türkiye",
+      "_en_US": "Türkiye"
+   },
+   {
+      "_Id": "214",
+      "_UlkeAdi": "Türkmenistan",
+      "_Oncelik": "0",
+      "_tr_TR": "Türkmenistan",
+      "_en_US": "Turkmenistan"
+   },
+   {
+      "_Id": "215",
+      "_UlkeAdi": "Turks ve Caicos Adalari",
+      "_Oncelik": "0",
+      "_tr_TR": "Turks ve Caicos Adalari",
+      "_en_US": "Turks and Caicos Islands"
+   },
+   {
+      "_Id": "216",
+      "_UlkeAdi": "Tuvalu",
+      "_Oncelik": "0",
+      "_tr_TR": "Tuvalu",
+      "_en_US": "Tuvalu"
+   },
+   {
+      "_Id": "217",
+      "_UlkeAdi": "Uganda",
+      "_Oncelik": "0",
+      "_tr_TR": "Uganda",
+      "_en_US": "Uganda"
+   },
+   {
+      "_Id": "218",
+      "_UlkeAdi": "Ukrayna",
+      "_Oncelik": "0",
+      "_tr_TR": "Ukrayna",
+      "_en_US": "Ukraine"
+   },
+   {
+      "_Id": "219",
+      "_UlkeAdi": "Birlesik Arap Emirlikleri",
+      "_Oncelik": "0",
+      "_tr_TR": "Birlesik Arap Emirlikleri",
+      "_en_US": "United Arab Emirates"
+   },
+   {
+      "_Id": "220",
+      "_UlkeAdi": "Ingiltere",
+      "_Oncelik": "0",
+      "_tr_TR": "Ingiltere",
+      "_en_US": "United Kingdom"
+   },
+   {
+      "_Id": "221",
+      "_UlkeAdi": "Amerika Birlesik Devletleri",
+      "_Oncelik": "0",
+      "_tr_TR": "Amerika Birlesik Devletleri",
+      "_en_US": "United States of America"
+   },
+   {
+      "_Id": "222",
+      "_UlkeAdi": "Uruguay",
+      "_Oncelik": "0",
+      "_tr_TR": "Uruguay",
+      "_en_US": "Uruguay"
+   },
+   {
+      "_Id": "223",
+      "_UlkeAdi": "Özbekistan",
+      "_Oncelik": "0",
+      "_tr_TR": "Özbekistan",
+      "_en_US": "Uzbekistan"
+   },
+   {
+      "_Id": "224",
+      "_UlkeAdi": "Vanuatu",
+      "_Oncelik": "0",
+      "_tr_TR": "Vanuatu",
+      "_en_US": "Vanuatu"
+   },
+   {
+      "_Id": "225",
+      "_UlkeAdi": "Vatikan",
+      "_Oncelik": "0",
+      "_tr_TR": "Vatikan",
+      "_en_US": "Vatican"
+   },
+   {
+      "_Id": "226",
+      "_UlkeAdi": "Venezuela",
+      "_Oncelik": "0",
+      "_tr_TR": "Venezuela",
+      "_en_US": "Venezuela"
+   },
+   {
+      "_Id": "227",
+      "_UlkeAdi": "Vietnam",
+      "_Oncelik": "0",
+      "_tr_TR": "Vietnam",
+      "_en_US": "Vietnam"
+   },
+   {
+      "_Id": "228",
+      "_UlkeAdi": "Virgin Adalari",
+      "_Oncelik": "0",
+      "_tr_TR": "Virgin Adalari",
+      "_en_US": "Virgin Islands of the USA"
+   },
+   {
+      "_Id": "229",
+      "_UlkeAdi": "Wallis ve Futuna",
+      "_Oncelik": "0",
+      "_tr_TR": "Wallis ve Futuna",
+      "_en_US": "Wallis & Futuna"
+   },
+   {
+      "_Id": "230",
+      "_UlkeAdi": "Yemen",
+      "_Oncelik": "0",
+      "_tr_TR": "Yemen",
+      "_en_US": "Yemen"
+   },
+   {
+      "_Id": "231",
+      "_UlkeAdi": "Zambiya",
+      "_Oncelik": "0",
+      "_tr_TR": "Zambiya",
+      "_en_US": "Zambia"
+   },
+   {
+      "_Id": "232",
+      "_UlkeAdi": "Zimbabve",
+      "_Oncelik": "0",
+      "_tr_TR": "Zimbabve",
+      "_en_US": "Zimbabwe"
+   }
+]

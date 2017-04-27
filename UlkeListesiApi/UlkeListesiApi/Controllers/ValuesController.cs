@@ -1,44 +1,37 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using UlkeListesiApi.Models;
 
 namespace UlkeListesiApi.Controllers
 {
-    [Route("api/[controller]")]
-    public class ValuesController : Controller
+  public class TempJson
+  {
+
+    public string _Id { get; set; }
+    public string _UlkeAdi { get; set; }
+    public string _Oncelik { get; set; }
+    public string _tr_TR { get; set; }
+    public string _en_US { get; set; }
+  }
+  [Route("api/[controller]")]
+  public class ValuesController : Controller
+  {
+    private readonly UlkeDbContext _context;
+
+    public ValuesController(UlkeDbContext context)
     {
-        // GET api/values
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "Emre ", "Kara " };
-        }
-
-        // GET api/values/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
-        // POST api/values
-        [HttpPost]
-        public void Post([FromBody]string value)
-        {
-        }
-
-        // PUT api/values/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody]string value)
-        {
-        }
-
-        // DELETE api/values/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+      _context = context;
     }
+
+    // GET api/values
+    [HttpGet]
+    public List<Ulkeler> Get()
+    {
+      return _context.Ulkeler.ToList();
+    }
+
+  }
 }
