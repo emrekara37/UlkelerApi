@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
-using UlkeListesiApi.Models;
+﻿using Microsoft.EntityFrameworkCore;
 
-namespace UlkeListesiApi.Controllers
+namespace UlkeListesiApi.Models
 {
   public static class DbInitializer
   {
